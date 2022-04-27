@@ -1,2 +1,2 @@
 # Zombie-dice-pucpr
- repositório da atividade da matéria raciocínio computacional 
+ Jogo zombie dice na linguagem python - raciocínio computacional
